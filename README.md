@@ -18,6 +18,7 @@ student-course-management-system/
 │── ERD.png
 
 🧩 ER Diagram
+![ER Diagram](./ERD.png)
 
 ▶ How to Run the Project
 
