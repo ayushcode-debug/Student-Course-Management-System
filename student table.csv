@@ -1,0 +1,4 @@
+student_id,roll_number,first_name,last_name,gender,birth_date,city,email,phone,created_at
+1,R2025001,Ayush,Bhardwaj,M,2004-02-15,Delhi,ayushbh045@gmail.com,9876543210,"2025-11-25 15:21:55"
+2,R2025002,Riya,Khan,F,2003-07-10,Mumbai,riya@example.com,9123456780,"2025-11-25 15:21:55"
+4,R2025004,Simran,Singh,F,2002-11-05,Delhi,simran@example.com,9012345678,"2025-11-25 15:21:55"

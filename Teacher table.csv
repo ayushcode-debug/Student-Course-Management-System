@@ -1,0 +1,4 @@
+teacher_id,teacher_code,name,specialization,email,phone,created_at
+1,T001,"Dr. Mehta","Data Science",mehta@example.com,NULL,"2025-11-25 15:22:21"
+2,T002,"Mrs. Sharma",Python,sharma@example.com,NULL,"2025-11-25 15:22:21"
+3,T003,"Mr. Arjun","Web Development",arjun@example.com,NULL,"2025-11-25 15:22:21"

@@ -1,0 +1,5 @@
+course_id,course_code,name,duration_months,fees,description,created_at
+1,DS101,"Data Science",6,35000.00,"Intro to data science projects","2025-11-25 15:21:29"
+2,PY201,"Python Programming",3,18000.00,"Python fundamentals & libs","2025-11-25 15:21:29"
+3,WD301,"Web Development",4,25000.00,"Frontend + backend basics","2025-11-25 15:21:29"
+4,SQL101,"SQL Basics",2,12000.00,"Intro to SQL","2025-11-25 19:27:01"
